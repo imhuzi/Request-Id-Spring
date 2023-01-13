@@ -1,0 +1,2 @@
+customerLogRequestId=com.uyibai.requestid.dubbo.CustomerLogRequestIdFilter
+providerLogRequestId=com.uyibai.requestid.dubbo.ProviderLogRequestIdFilter
